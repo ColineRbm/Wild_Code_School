@@ -1,2 +1,2 @@
 # Wild_Code_School
-first repo > bootcamp WCS
+first repo > bootcamp WCS x Simplon
